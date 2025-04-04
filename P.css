@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+.pro{
+    background-color: rgb(177, 150, 202);
+    color: rgb(70, 6, 6);
+    justify-items: center;
+    
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+table{
+    width: 70%;
+    padding: 10px;
+    border-radius: 5px;
+
+}
